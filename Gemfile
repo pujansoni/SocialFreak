@@ -58,3 +58,4 @@ gem 'omniauth-oauth2', '~> 1.6'
 gem 'omniauth-twitter'
 gem 'omniauth-facebook', '~> 5.0'
 gem "omniauth-google-oauth2"
+gem 'omniauth-linkedin-oauth2'
